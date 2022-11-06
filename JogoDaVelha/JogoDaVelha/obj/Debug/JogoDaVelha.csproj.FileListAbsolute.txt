@@ -1,0 +1,32 @@
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Victor Marinho\Documents\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\victor.marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Victor Marinho\Downloads\sdfhdgdfgghdghd-main\sdfhdgdfgghdghd-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Victor Marinho\Downloads\JogoDaVelha-main\JogoDaVelha-main\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
